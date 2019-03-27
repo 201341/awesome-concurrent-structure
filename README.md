@@ -2,11 +2,11 @@
 
 A collection of resources on concurrent structure
 
-##Contributing
+## Contributing
 
 To add, remove or change things on the list: [please submit a pull request to the GitHub repository](https://github.com/201341/awesome-concurrent-structure.git)
 
-##Concurrent Queue
+## Concurrent Queue
 
 - https://github.com/cameron314/concurrentqueue.git
 
