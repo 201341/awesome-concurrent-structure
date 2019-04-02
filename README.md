@@ -13,10 +13,9 @@ To add, remove or change things on the list: [please submit a pull request to th
 ## Concurrent Hash
 
 - libcuckoo https://github.com/efficient/libcuckoo.git 
-
--  hopscotch-map https://github.com/Tessil/hopscotch-map.git
-
+- hopscotch-map https://github.com/Tessil/hopscotch-map.git
 - Paper: Reaping the performance of fast NVM storage with uDepot [Fast 2019]
+- Level-Hashing https://github.com/Pfzuo/Level-Hashing.git 
 
 ## Concurrent Binary Search Tree
 
