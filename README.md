@@ -16,6 +16,9 @@ To add, remove or change things on the list: [please submit a pull request to th
 - hopscotch-map https://github.com/Tessil/hopscotch-map.git
 - Paper: Reaping the performance of fast NVM storage with uDepot [Fast 2019]
 - Level-Hashing https://github.com/Pfzuo/Level-Hashing.git 
+## The Parallel Hashmap
+
+- https://github.com/greg7mdp/parallel-hashmap.git
 
 ## Concurrent Binary Search Tree
 
