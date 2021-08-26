@@ -15,7 +15,11 @@ To add, remove or change things on the list: [please submit a pull request to th
 - libcuckoo https://github.com/efficient/libcuckoo.git 
 - hopscotch-map https://github.com/Tessil/hopscotch-map.git
 - Paper: Reaping the performance of fast NVM storage with uDepot [Fast 2019]
-- Level-Hashing https://github.com/Pfzuo/Level-Hashing.git 
+- Level-Hashing https://github.com/Pfzuo/Level-Hashing.git
+
+## Concurrent Hash Tries
+- https://github.com/yottacto/cache-trie.git 
+
 ## The Parallel Hashmap
 
 - https://github.com/greg7mdp/parallel-hashmap.git
